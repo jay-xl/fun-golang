@@ -4,6 +4,7 @@
 
 ![background image](https://github.com/SilenceHVK/Articles/raw/master/assets/images/bgImages/bg3.png)
 
+
 ## Go 的主要特点
 
 - 类型安全 和 内存安全；
