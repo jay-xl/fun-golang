@@ -6,12 +6,12 @@
 
 ## Go 基础
 
-- [Go 语言简介](https://github.com/SilenceHVK/fun-golang/doc/1.introduction-to-golang.md)
+- [Go 语言简介](https://github.com/SilenceHVK/fun-golang/blob/master/doc/1.Introduction-to-golang.md)
 
 
 
 ## 参考文章 与 书籍
 
 - [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)
-- [Go 并发编程实战](https://github.com/SilenceHVK/fun-golang/pdf/Go并发编程实战.pdf)
-- [Go 语言实战](https://github.com/SilenceHVK/fun-golang/pdf/Go语言实战.pdf)
+- [Go 并发编程实战](https://github.com/SilenceHVK/fun-golang/blob/master/pdf/Go%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E5%AE%9E%E6%88%98.pdf)
+- [Go 语言实战](https://github.com/SilenceHVK/fun-golang/blob/master/pdf/Go%E8%AF%AD%E8%A8%80%E5%AE%9E%E6%88%98.pdf)
