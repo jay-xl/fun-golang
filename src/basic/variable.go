@@ -53,5 +53,3 @@ func DeclaratMultiVariable(){
 	h, i, j := 7, 8, 9
 	fmt.Printf("h = %d , i = %d , j = %d", h, i, j)
 }
-
-
