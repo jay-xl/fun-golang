@@ -9,7 +9,7 @@
 - 以非常直观和极低代价的方案实现高并发；
 - 高效的垃圾回收机制（内置 runtime）；
 - 快速编译（同时解决 C 语言中头文件太多的问题）；
-- 为多核计计算机提供性能提升的方案；
+- 为多核计算机提供性能提升的方案；
 - UTF-8 编码支持；
 
 ## Go 语言的应用
@@ -32,4 +32,35 @@
 - go help：查看 go 命令行；
 
 
+## Go 语言中的关键字，标识符
 
+&ensp;&ensp;Go 语言中保留关键字只有 25 个
+
+| break | default | func | interface | select |
+| --- | --- | --- | --- | --- |
+| case | defer | go | map | struct |
+| chan | else | goto | package | switch |
+| const | fallthrough | if | range | type |
+| continue | for | import | return | var |
+
+
+&ensp;&ensp;Go 语言中有 36 个预定的标识符，其中包括基础数据类型和系统内嵌函数
+  
+| append | bool | byte | cap | close | complex |
+| --- | --- | --- | --- | --- | --- |
+| complex64 | complex128 | copy | false | float32 | float64 |
+| copy | int | int8 | int16 | int32 | int64 |
+| imag | uint | uint8 | uint16 | uint32 | uint64 | 
+| uintprt | iota | len | new | nil | panic | 
+| recover | print | println | real | string | TRUE | 
+
+
+## Go 语言中的注释方法
+
+- //：单行注释
+
+- /* */：多行注释
+
+## Go 语言中可见性规则
+
+&ensp;&ensp; Go 语言中，使用大小写来决定该常量、变量、类型、接口、结构是否可以被外部所调用：**根据约定，函数名首字母 小写 即为 ```private```，函数名首字母 大写 即为 ```plublic```**。
