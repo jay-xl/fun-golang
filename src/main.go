@@ -7,6 +7,7 @@ func main(){
 	//basic.InsertValueByIota()
 	//basic.ExpressionByIota()
 	//basic.SingleLineByIota()
-	basic.ArithmeticOperator()
-	basic.RelationalOperator()
+	//basic.ArithmeticOperator()
+	//basic.RelationalOperator()
+	basic.BitOperator()
 }

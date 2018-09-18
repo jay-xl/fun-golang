@@ -16,8 +16,19 @@ func ArithmeticOperator() {
 	fmt.Println("count 自减值 = ", count)
 }
 
-// 逻辑运算符
-func RelationalOperator(){
+// 关系运算符
+func RelationalOperator() {
 	fmt.Println("1 == 1", 1 == 1, "1 == 2", 1 == 2)
 	fmt.Println("1 != 1", 1 != 1, "1 != 2", 1 != 2)
+	fmt.Println("1 > 1", 1 > 1, "1 < 2", 1 < 2)
+	fmt.Println("1 >= 1", 1 >= 1, "1 <= 0", 1 <= 0)
+}
+
+// 按位运算符
+func BitOperator() {
+	fmt.Println(" 3 & 4 = ", 3&4)
+	fmt.Println(" 3 | 4 = ", 3|4)
+	fmt.Println(" 25 ^ 3 = ", 25 ^ 3)
+	fmt.Println(" 3 << 3 = ", 3 << 3)
+	fmt.Println(" 3 >> 3 = ", 3 >> 3)
 }
