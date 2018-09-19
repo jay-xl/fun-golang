@@ -10,8 +10,8 @@
 - [Go 语言的程序结构](https://github.com/SilenceHVK/fun-golang/blob/master/doc/Go-language-program-structure.md)
 - [Go 语言中的基本类型](https://github.com/SilenceHVK/fun-golang/blob/master/doc/Basic-types-in-the-golang.md)
 - [Go 语言的变量与常量](https://github.com/SilenceHVK/fun-golang/blob/master/doc/Variable-and-constant.md)
-- [Go 语言的指针](https://github.com/SilenceHVK/fun-golang/blob/master/doc/Pointer.md)
 - [Go 语言的操作符](https://github.com/SilenceHVK/fun-golang/blob/master/doc/Operator.md)
+- [Go 语言的指针](https://github.com/SilenceHVK/fun-golang/blob/master/doc/Pointer.md)
 
 
 
